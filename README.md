@@ -82,4 +82,4 @@ This project is licensed under the [Endless Continue](https://github.com/Endless
 #### Contributors
 
 - [Endless Izzy](https://github.com/Izzyyz)
-- [Javier Andres](https://github.com/javierandres-dev)
+- [Endless_Continue](https://github.com/Endless-Continue/)
